@@ -1,4 +1,8 @@
 // add whatever parameters you deem necessary - good luck!
-function keys(){
-
+function keys(obj) {
+  let keysArr = [];
+  for (let property in obj) {
+    keysArr.push(property);
+  }
+  return keysArr;
 }
