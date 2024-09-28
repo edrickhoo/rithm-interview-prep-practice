@@ -1,3 +1,8 @@
+# rithm-interview-prep-practice
+
+### Pass Tests
+![Screenshot](./Tests.png)
+
 Your assignment is to write the following functions in the descriptions below - good luck!
 
 ### appendToString
